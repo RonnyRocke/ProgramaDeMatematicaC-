@@ -38,5 +38,3 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões, co
 Licença
 
 Este projeto está licenciado sob a MIT License, sinta-se livre para utilizá-lo e adaptá-lo conforme necessário.
-
-Essa descrição destaca as funcionalidades do seu projeto, além de mostrar sua dedicação e organização. Boa sorte com seu GitHub! 🚀
